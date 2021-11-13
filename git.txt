@@ -3,3 +3,8 @@ git add . or git add name file
 git commit -m "your comments"
 git remote add origin ssilka 
 git push -u origin master 
+
+second 
+git add .
+git commit -m "message"
+git push 
